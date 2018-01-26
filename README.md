@@ -1,2 +1,2 @@
 # observatory
-Portuguese Web Accessibility Observatory
+Portuguese Observatory of Web Accessibility
